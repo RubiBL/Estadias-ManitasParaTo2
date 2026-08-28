@@ -10,7 +10,7 @@
 
   <br />
 
-  <img src="assets/banner_assembly.png" alt="Vista previa de ensamblado de prótesis" width="850">
+  <img src="Imagenes/ensamble brazo.png" alt="Vista previa de ensamblado de prótesis" width="850">
 
 </div>
 
